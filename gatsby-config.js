@@ -5,8 +5,8 @@ module.exports = {
     title: 'An Quach',
     description:
       'An Quach is a solution architect who designs and implements infrastructure solutions within an organization by creating technical visions for specific business problems in cloud computing.',
-    siteUrl: 'https://anquachdev.com', // No trailing slash allowed!
-    image: '/og.png', // Path to your image you placed in the 'static' folder
+    siteUrl: 'https://anquach.dev', // No trailing slash allowed!
+    image: '/me.png', // Path to your image you placed in the 'static' folder
   },
   plugins: [
     `gatsby-plugin-react-helmet`,
