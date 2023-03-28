@@ -336,6 +336,8 @@ const Featured = () => {
   const revealProjects = useRef([]);
   const prefersReducedMotion = usePrefersReducedMotion();
 
+  console.log(featuredProjects);
+
   useEffect(() => {
     if (prefersReducedMotion) {
       return;
@@ -351,9 +353,7 @@ const Featured = () => {
         Some Things I’ve Built
       </h2>
 
-      Comming Soon...
-
-      {/* <StyledProjectsGrid>
+      <StyledProjectsGrid>
         {featuredProjects &&
           featuredProjects.map(({ node }, i) => {
             const { frontmatter, html } = node;
@@ -411,7 +411,7 @@ const Featured = () => {
               </StyledProject>
             );
           })}
-      </StyledProjectsGrid> */}
+      </StyledProjectsGrid>
     </section>
   );
 };
