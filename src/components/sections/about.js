@@ -125,7 +125,18 @@ const About = () => {
     sr.reveal(revealContainer.current, srConfig());
   }, []);
 
-  const skills = ['JavaScript (ES6+)', 'TypeScript', 'React', 'Eleventy', 'Node.js', 'WordPress'];
+  const skills = [
+    'AWS: EKS, RDS, EC2,...',
+    'Terraform, Ansible',
+    'Kubernetes, Helm',
+    'Jenkins, GitLab CI/CD',
+    'Grafana, DataDog',
+    'Flutter, React Native',
+    'ReactJS, NextJS',
+    'Golang, NodeJs',
+    'Ethereum, Polygon',
+    'Solidity, EtherJS',
+  ];
 
   return (
     <StyledAboutSection id="about" ref={revealContainer}>
@@ -135,31 +146,33 @@ const About = () => {
         <StyledText>
           <div>
             <p>
-              Hello! My name is Brittany and I enjoy creating things that live on the internet. My
-              interest in web development started back in 2012 when I decided to try editing custom
-              Tumblr themes — turns out hacking together a custom reblog button taught me a lot
-              about HTML &amp; CSS!
+              Hello! My name is An and I enjoy find solutions to build a reliable and secure
+              environment for hosting applzications and services. My interest in Cloud
+              Infrastructure Architect started in 2021 when I decided to try deploying a persional
+              Web Application — turns out finding way to host and deploy an application touch me a
+              lot of about Cloud Hosting &amp; Network Security!
             </p>
 
             <p>
               Fast-forward to today, and I’ve had the privilege of working at{' '}
-              <a href="https://us.mullenlowe.com/">an advertising agency</a>,{' '}
-              <a href="https://starry.com/">a start-up</a>,{' '}
-              <a href="https://www.apple.com/">a huge corporation</a>, and{' '}
-              <a href="https://scout.camd.northeastern.edu/">a student-led design studio</a>. My
-              main focus these days is building accessible, inclusive products and digital
-              experiences at <a href="https://upstatement.com/">Upstatement</a> for a variety of
-              clients.
+              <a href="https://www.mecar.vn/">a social network for Car</a>,{' '}
+              <a href="https://phenikaamaas.com/">a start-up with strong AI on the Edge</a>,{' '}
+              <a href="https://the-hash.com/">
+                an consulting company trusted by the big hotel group IHG
+              </a>
+              . My main focus these days is building scaleable, security, accelerate AI adoption
+              product at <a href="https://dataspire.ai/">DataSpire</a> for a variety of bussiness
+              usecases.
             </p>
 
-            <p>
+            {/* <p>
               I also recently{' '}
               <a href="https://www.newline.co/courses/build-a-spotify-connected-app">
                 launched a course
               </a>{' '}
               that covers everything you need to build a web app with the Spotify API using Node
               &amp; React.
-            </p>
+            </p> */}
 
             <p>Here are a few technologies I’ve been working with recently:</p>
           </div>
@@ -168,7 +181,6 @@ const About = () => {
             {skills && skills.map((skill, i) => <li key={i}>{skill}</li>)}
           </ul>
         </StyledText>
-
         <StyledPic>
           <div className="wrapper">
             <StaticImage
