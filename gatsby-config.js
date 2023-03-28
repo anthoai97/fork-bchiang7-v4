@@ -6,7 +6,7 @@ module.exports = {
     description:
       'An Quach is a solution architect who designs and implements infrastructure solutions within an organization by creating technical visions for specific business problems in cloud computing.',
     siteUrl: 'https://anquach.dev', // No trailing slash allowed!
-    image: '/me.png', // Path to your image you placed in the 'static' folder
+    image: '/og.png', // Path to your image you placed in the 'static' folder
   },
   plugins: [
     `gatsby-plugin-react-helmet`,
@@ -149,9 +149,24 @@ module.exports = {
       },
     },
     {
-      resolve: `gatsby-plugin-google-analytics`,
+      resolve: `gatsby-plugin-google-gtag`,
       options: {
-        trackingId: 'G-4WW8RP33GL',
+        // You can add multiple tracking ids and a pageview event will be fired for all of them.
+        trackingIds: [
+          "G-4WW8RP33GL", // Google Analytics / GA
+        ],
+        // This object is used for configuration specific to this plugin
+        pluginConfig: {
+          // Puts tracking script in the head instead of the body
+          head: true,
+          // Setting this parameter is also optional
+          respectDNT: true,
+          // Avoids sending pageview hits from custom paths
+          exclude: ["/preview/**", "/do-not-track/me/too/"],
+          // Defaults to https://www.googletagmanager.com
+          // Delays processing pageview events on route update (in milliseconds)
+          delayOnRouteUpdate: 0,
+        },
       },
     },
   ],

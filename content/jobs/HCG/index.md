@@ -1,7 +1,7 @@
 ---
 date: '2022-02-01'
 title: 'Solution Architect'
-company: 'Hash Consulting Group'
+company: 'HCG'
 location: 'Ho Chi Minh, VN'
 range: 'Feb 2022 - Present'
 url: 'https://the-hash.com/'
