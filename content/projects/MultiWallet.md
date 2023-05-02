@@ -11,4 +11,4 @@ tech:
 showInProjects: true
 ---
 
-An clearly example that show you how to connect multi options blockchain wallets into your Web3 Application
+A clear example that shows you how to connect multi-options blockchain wallets into your Web3 Application
