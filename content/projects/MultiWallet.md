@@ -1,0 +1,14 @@
+---
+date: '2023-4-2'
+title: 'Web3 Multi-Wallet Connector Module'
+github: 'https://github.com/anthoai97/web3-multi-wallet-connector'
+external: 'https://web3-connect.anquach.dev'
+company: ''
+tech:
+  - Web3
+  - NextJS
+  - Web3-React
+showInProjects: true
+---
+
+An clearly example that show you how to connect multi options blockchain wallets into your Web3 Application
