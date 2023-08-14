@@ -1,5 +1,5 @@
 ---
-date: '10'
+date: '0'
 title: 'MeCar Mobile Application'
 cover: './demo.png'
 external: 'https://www.mecar.vn/'

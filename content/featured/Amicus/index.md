@@ -1,5 +1,5 @@
 ---
-date: '7'
+date: '3'
 title: 'Amicus.one | Digital Membership and Loyalty'
 cover: './demo.png'
 external: 'https://www.amicus.one/'
