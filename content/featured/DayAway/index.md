@@ -1,5 +1,5 @@
 ---
-date: '2'
+date: '9'
 title: 'DayAway: A New Era of Experiences'
 cover: './demo.png'
 external: 'https://mydayaway.com/'
