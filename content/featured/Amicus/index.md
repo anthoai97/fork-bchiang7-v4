@@ -1,6 +1,6 @@
 ---
 date: '1'
-title: 'Amicus.one | Digital Membership and Loyalty'
+title: 'Digital Membership and Loyalty'
 cover: './demo.png'
 external: 'https://www.amicus.one/'
 cta: 'https://www.amicus.one/'
