@@ -2,8 +2,8 @@
 date: '1'
 title: 'Amicus.one | Digital Membership and Loyalty'
 cover: './demo.png'
-external: 'https://www.amicus.one/'
-cta: 'https://www.amicus.one/'
+external: 'https://dime-qa.the-hash.com/'
+cta: 'https://dime-qa.the-hash.com/'
 tech:
   - ERC721
   - NextJS
@@ -11,6 +11,6 @@ tech:
   - Wallet Connect V2
 ---
 
-An endorsed project utilizes the "multi-options blockchain wallets connect" module. [Connect Wallet Page](https://www.amicus.one/connect-wallet)
+An endorsed project utilizes the "multi-options blockchain wallets connect" module. [Connect Wallet Page](https://dime-qa.the-hash.com/connect-wallet)
 
 Its core purpose is to facilitate the authorization of NFT holders, granting them access to exclusive privileges and specific events.

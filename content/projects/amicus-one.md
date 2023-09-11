@@ -2,7 +2,7 @@
 date: '2023-4-01'
 title: 'The Membership and Loyalty Programme using Web3 technology'
 # github: 'https://github.com/anthoai97/web3-multi-wallet-connector'
-external: 'https://www.amicus.one/'
+external: 'https://dime-qa.the-hash.com/'
 company: 'HCG'
 tech:
   - ERC721
