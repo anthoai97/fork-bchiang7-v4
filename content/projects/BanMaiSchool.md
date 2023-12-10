@@ -10,7 +10,7 @@ tech:
   - Flutter
   - Android
   - IOS
-showInProjects: true
+showInProjects: false
 ---
 
 A smart mobile application for parents, students, teachers. Features: GPS tracking, AI face check-in/out, notifications.

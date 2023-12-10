@@ -10,7 +10,7 @@ tech:
   - Flutter
   - Android
   - IOS
-showInProjects: true
+showInProjects: false
 ---
 
 A booking mobile app for UK customer search through hundreds of available homes and use detailed filters such as price, home styles, communities, and more

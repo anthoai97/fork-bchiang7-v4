@@ -61,9 +61,7 @@ const Hero = () => {
 
   const one = <h1>Hi, my name is</h1>;
   const two = <h2 className="big-heading">An Quách.</h2>;
-  const three = (
-    <h3 className="big-heading">I build infra for the software.</h3>
-  );
+  const three = <h3 className="big-heading">I build infra for the software.</h3>;
   const four = (
     <>
       <p>
@@ -78,12 +76,8 @@ const Hero = () => {
     </>
   );
   const five = (
-    <a
-      className="email-link"
-      href="https://www.linkedin.com/in/anquachdev/"
-      target="_blank"
-      rel="noreferrer">
-      Check out my ExpLogs!
+    <a className="email-link" href="https://github.com/anthoai97" target="_blank" rel="noreferrer">
+      Check out my Coding Style!
     </a>
   );
 

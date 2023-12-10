@@ -1,5 +1,5 @@
 ---
-date: '2023-4-01'
+date: '2023-04-01'
 title: 'NFT | The Membership and Loyalty Programme'
 # github: 'https://github.com/anthoai97/web3-multi-wallet-connector'
 external: 'https://dime-qa.the-hash.com/'

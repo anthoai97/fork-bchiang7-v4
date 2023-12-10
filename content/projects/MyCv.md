@@ -1,5 +1,5 @@
 ---
-date: '2023-3-30'
+date: '2023-03-30'
 title: 'Personal Website'
 github: 'https://github.com/anthoai97/fork-bchiang7-v4'
 external: 'https://anquach.dev'

@@ -9,7 +9,7 @@ tech:
   - P2p
   - Golang
   - JSON-RPC Server
-showInProjects: false
+showInProjects: true
 ---
 
 These code examples are intended to demonstrate the main building blocks of peer-to-peer comunications in go-ethereum. They are organized in chapters, where every example in a chapter builds on the next.

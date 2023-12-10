@@ -8,7 +8,7 @@ tech:
   - Golang
   - AWS S3
   - IAM STS
-showInProjects: false
+showInProjects: true
 ---
 
 This Golang API Server is a solution designed to facilitate interactions with the AWS S3 service in a multi-tenant isolated environment for SaaS platforms. It employs a token vendor machine concept to ensure robust security and isolation of customer data.

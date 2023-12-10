@@ -8,7 +8,7 @@ tech:
   - Web3
   - NextJS
   - Web3-React
-showInProjects: true
+showInProjects: false
 ---
 
 A clear example that shows you how to connect multi-options blockchain wallets into your Web3 Application
