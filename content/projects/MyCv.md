@@ -3,7 +3,7 @@ date: '2023-03-30'
 title: 'Personal Website'
 github: 'https://github.com/anthoai97/fork-bchiang7-v4'
 external: 'https://anquach.dev'
-company: ''
+company: 'Personal'
 tech:
   - Gastby
   - ReactJS

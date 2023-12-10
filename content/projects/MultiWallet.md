@@ -3,7 +3,7 @@ date: '2023-04-02'
 title: 'Web3 Multi-Wallet Connector Module'
 github: 'https://github.com/anthoai97/web3-multi-wallet-connector'
 external: 'https://web3-connect.anquach.dev'
-company: ''
+company: 'Personal'
 tech:
   - Web3
   - NextJS
