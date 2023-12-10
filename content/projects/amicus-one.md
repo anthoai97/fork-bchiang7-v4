@@ -1,6 +1,6 @@
 ---
 date: '2023-4-01'
-title: 'The Membership and Loyalty Programme using Web3 technology'
+title: 'NFT | The Membership and Loyalty Programme'
 # github: 'https://github.com/anthoai97/web3-multi-wallet-connector'
 external: 'https://dime-qa.the-hash.com/'
 company: 'HCG'

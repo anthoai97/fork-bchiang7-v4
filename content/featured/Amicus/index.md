@@ -1,6 +1,6 @@
 ---
 date: '1'
-title: 'Amicus.one | Digital Membership and Loyalty'
+title: 'Digital Membership and Loyalty'
 cover: './demo.png'
 external: 'https://dime-qa.the-hash.com/'
 cta: 'https://dime-qa.the-hash.com/'
