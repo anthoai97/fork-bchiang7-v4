@@ -61,13 +61,17 @@ const Hero = () => {
 
   const one = <h1>Hi, my name is</h1>;
   const two = <h2 className="big-heading">An Quách.</h2>;
-  const three = <h3 className="big-heading">I build infra for the software.</h3>;
+  const three = (
+    <h3 className="big-heading">
+      I can automating workflows for efficient software development and deployment
+    </h3>
+  );
   const four = (
     <>
       <p>
-        I’m a solution architect who designs and implements infrastructure solutions by creating
-        technical visions for specific business problems in cloud computing. Currently, I’m focused
-        on building accelerate AI adoption at{' '}
+        I'm a DevOps Engineer specializing in designing and implementing streamlined, automated
+        workflows, monitoring to facilitate seamless software development and deployment. Currently,
+        my focus is on building automated MLOps solutions to accelerate AI adoption at{' '}
         <a href="https://dataspire.ai/" target="_blank" rel="noreferrer">
           DataSpire
         </a>

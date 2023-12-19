@@ -1,6 +1,6 @@
 ---
 date: '2022-06-01'
-title: 'Solution Architect'
+title: 'DevOps Engineer'
 company: 'DataSpire'
 location: 'Ho Chi Minh, VN'
 range: 'Feb 2022 - Present'

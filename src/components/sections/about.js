@@ -146,11 +146,12 @@ const About = () => {
         <StyledText>
           <div>
             <p>
-              Hello! My name is An and I enjoy find solutions to build a reliable and secure
-              environment for hosting applzications and services. My interest in Cloud
-              Infrastructure Architect started in 2021 when I decided to try deploying a persional
-              Web Application — turns out finding way to host and deploy an application touch me a
-              lot of about Cloud Hosting &amp; Network Security!
+              Hello! I'm An, and my journey into the role of a DevOps engineer began in 2021 when I
+              started exploring AWS Cloud. I enjoy implementing build automation to streamline
+              development processes, focusing on optimizing workflows and leveraging AWS services
+              for scalable and efficient solutions. Additionally, I have a keen interest in
+              implementing robust monitoring solutions to ensure the reliability and performance of
+              the deployed applications.
             </p>
 
             <p>

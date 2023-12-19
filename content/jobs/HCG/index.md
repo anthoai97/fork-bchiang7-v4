@@ -1,6 +1,6 @@
 ---
 date: '2022-02-01'
-title: 'Solution Architect'
+title: 'DevOps Engineer'
 company: 'HCG'
 location: 'Ho Chi Minh, VN'
 range: 'Feb 2022 - Present'
