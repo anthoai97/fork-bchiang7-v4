@@ -2,7 +2,7 @@
 date: '2022-06-01'
 title: 'GauVendi ISE'
 github: ''
-external: 'https://ibe.gauvendi.com/recommendation?hc=GVSTEHAR'
+external: 'https://booking.gauvendi.com/recommendation?hc=GVAPALUX'
 company: 'HCG'
 tech:
   - AWS

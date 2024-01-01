@@ -1,5 +1,5 @@
 ---
-date: '1'
+date: '4'
 title: 'Digital Membership and Loyalty'
 cover: './demo.png'
 external: 'https://dime-qa.the-hash.com/'
