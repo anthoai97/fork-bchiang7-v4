@@ -1,5 +1,5 @@
 ---
-date: '1'
+date: '4'
 title: 'GauVendi PMS, CRS, IBE, and RMS'
 cover: './demo.png'
 external: 'https://booking.gauvendi.com/recommendation?hc=GVAPALUX'

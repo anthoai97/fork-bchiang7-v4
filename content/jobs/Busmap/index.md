@@ -3,7 +3,7 @@ date: '2020-06-01'
 title: 'Mobile Developer'
 company: 'BusMap'
 location: 'Ho Chi Minh, VN'
-range: 'Jun 2020 - Jan 2022'
+range: 'Oct 2020 - Jan 2022'
 url: 'https://www.busmap.vn/'
 ---
 

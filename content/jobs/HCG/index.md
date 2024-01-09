@@ -3,7 +3,7 @@ date: '2022-02-01'
 title: 'DevOps Engineer'
 company: 'HCG'
 location: 'Ho Chi Minh, VN'
-range: 'Feb 2022 - Present'
+range: 'Jan 2022 - Present'
 url: 'https://the-hash.com/'
 ---
 

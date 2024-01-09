@@ -3,7 +3,7 @@ date: '2022-06-01'
 title: 'DevOps Engineer'
 company: 'DataSpire'
 location: 'Ho Chi Minh, VN'
-range: 'Feb 2022 - Present'
+range: 'Jan 2022 - Present'
 url: 'https://dataspire.ai/'
 ---
 

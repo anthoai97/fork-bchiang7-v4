@@ -1,5 +1,5 @@
 ---
-date: '2'
+date: '3'
 title: 'DataSpire: AI Platform'
 cover: './demo.png'
 external: 'https://dataspire.ai/'

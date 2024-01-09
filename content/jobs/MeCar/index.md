@@ -3,7 +3,7 @@ date: '2019-06-01'
 title: 'Mobile Developer'
 company: 'MeCar'
 location: 'Ho Chi Minh, VN'
-range: 'Jun 2019 - May 2020'
+range: 'Dec 2018 - Jun 2020'
 url: 'https://www.mecar.vn/'
 ---
 

@@ -1,9 +1,9 @@
 ---
 date: '2020-06-02'
-title: 'Mobile Developer'
+title: 'DevOps Engineer'
 company: 'Phenikaa MaaS'
 location: 'Ho Chi Minh, VN'
-range: 'Jun 2020 - Jan 2022'
+range: 'Oct 2020 - Jan 2022'
 url: 'https://phenikaamaas.com/'
 ---
 
