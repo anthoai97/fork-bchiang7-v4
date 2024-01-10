@@ -2,8 +2,8 @@
 date: '2'
 title: 'Digital Membership and Loyalty'
 cover: './demo.png'
-external: 'https://dime-qa.the-hash.com/'
-cta: 'https://dime-qa.the-hash.com/'
+external: 'https://www.amicus.one/'
+cta: 'https://www.amicus.one/'
 tech:
   - ERC721
   - NextJS
