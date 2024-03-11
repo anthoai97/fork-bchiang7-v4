@@ -146,10 +146,9 @@ const About = () => {
         <StyledText>
           <div>
             <p>
-              Hello! I'm An, and my journey into the role of a DevOps engineer began in 2021 when I
-              started exploring AWS Cloud. I enjoy implementing build automation to streamline
-              development processes, focusing on optimizing workflows and leveraging AWS services
-              for scalable and efficient solutions. Additionally, I have a keen interest in
+              Hello! I'm An, and my journey into the role of a Fullstack engineer began in 2021 when
+              I started exploring code API for Backend WebServer. I enjoy implementing and
+              delivering comprehensive system solutions. Additionally, I have a keen interest in
               implementing robust monitoring solutions to ensure the reliability and performance of
               the deployed applications.
             </p>

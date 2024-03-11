@@ -63,7 +63,7 @@ const Hero = () => {
   const two = <h2 className="big-heading">An Quách.</h2>;
   const three = (
     <h3 className="big-heading">
-      I'm skilled in frontend, backend, and DevOps, delivering comprehensive system solutions.
+      I'm skilled in Frontend, Backend, and DevOps, delivering comprehensive system solutions.
     </h3>
   );
   const four = (
