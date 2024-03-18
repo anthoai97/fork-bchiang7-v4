@@ -146,11 +146,11 @@ const About = () => {
         <StyledText>
           <div>
             <p>
-              Hello! I'm An, and my journey into the role of a Fullstack engineer began in 2021 when
-              I started exploring code API for Backend WebServer. I enjoy implementing and
-              delivering comprehensive system solutions. Additionally, I have a keen interest in
-              implementing robust monitoring solutions to ensure the reliability and performance of
-              the deployed applications.
+              Hello! I'm An, and my journey into the role of a Backend engineer began in 2021 when I
+              started exploring code API for Backend WebServer. I enjoy implementing and delivering
+              comprehensive system solutions. Additionally, I have a keen interest in implementing
+              robust monitoring solutions to ensure the reliability and performance of the deployed
+              applications.
             </p>
 
             <p>

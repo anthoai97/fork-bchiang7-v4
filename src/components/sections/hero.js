@@ -69,8 +69,8 @@ const Hero = () => {
   const four = (
     <>
       <p>
-        I'm a FullStack Engineer with a strong background in developing versatile software
-        solutions. Possesses expertise in Frontend, Backend, and DevOps development, with a focus on
+        I'm a DevOps | Backend Engineer with a strong background in developing versatile software
+        solutions. Possesses expertise in Backend, and DevOps development, with a focus on
         microservices architecture with manage and hosted on AWS. Currently, my focus is on building
         automated MLOps solutions to accelerate AI adoption at{' '}
         <a href="https://dataspire.ai/" target="_blank" rel="noreferrer">

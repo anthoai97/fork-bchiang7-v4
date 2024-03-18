@@ -1,6 +1,6 @@
 ---
 date: '2022-02-01'
-title: 'FullStack Engineer'
+title: 'Backend | DevOps Engineer'
 company: 'HCG'
 location: 'Ho Chi Minh, VN'
 range: 'Jan 2022 - Present'
